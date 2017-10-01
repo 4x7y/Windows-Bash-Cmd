@@ -1,1 +1,1 @@
-@Start %CD%
+@Start %CD%\\%1
